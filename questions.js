@@ -34,10 +34,10 @@ const questions = [
     "options": [
       "Coaxial cable up to 3000 MHz",
       "Waveguide above 3000 MHz",
-      "",
+      "All of the above",
       ""
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "question": "HF tuned to reflect from ionosphere max distance is:",
@@ -155,7 +155,7 @@ const questions = [
       "Health",
       "Almanac",
       "Clock error",
-      "PRN"
+      "All of the above"
     ],
     "correct": 3
   },
@@ -214,10 +214,10 @@ const questions = [
     "options": [
       "Clock error",
       "Selective Availability",
-      "",
+      "Both",
       ""
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "question": "AWR can be used on ground when:",
@@ -244,10 +244,10 @@ const questions = [
     "options": [
       "VNAV/LNAV planning",
       "FMS position",
-      "",
+      "Both are correct",
       ""
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "question": "DGPS involves:",
@@ -274,10 +274,10 @@ const questions = [
     "options": [
       "GPS",
       "DME",
-      "",
+      "Both",
       ""
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "question": "If an NDB has a published range of 30 NM, its accuracy is:",
